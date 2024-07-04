@@ -658,7 +658,7 @@ Aprende sobre los conceptos básicos de los formularios HTML leyendo el tutorial
 
   <h4>0.4: Nuevo diagrama de nota</h4>
 
-En el capítulo [Cargando una página que contiene JavaScript - revisión](/es/part0/fundamentos_de_las_aplicaciones_web#cargando-una-pagina-que-contiene-java-script-revisada) la cadena de eventos causada al abrir la página <https://studies.cs.helsinki.fi/exampleapp/notes> se representa como un [diagrama de secuencia](https://www.geeksforgeeks.org/unified-modeling-language-uml-sequence-diagrams/)
+En el capítulo [Cargando una página que contiene JavaScript - revisión](/es/part0/fundamentos_de_las_aplicaciones_web#cargando-una-pagina-que-contiene-java-script-revision) la cadena de eventos causada al abrir la página <https://studies.cs.helsinki.fi/exampleapp/notes> se representa como un [diagrama de secuencia](https://www.geeksforgeeks.org/unified-modeling-language-uml-sequence-diagrams/)
 
 El diagrama se hizo como un archivo Markdown de Github usando la sintaxis [Mermaid](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams), de la siguiente manera:
 
