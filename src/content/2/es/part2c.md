@@ -580,6 +580,6 @@ Error: listen EADDRINUSE 0.0.0.0:3001
 
 significa que el puerto 3001 ya está en uso por otra aplicación, por ejemplo en uso por un servidor json que ya se está ejecutando. Cierra la otra aplicación o cambia el puerto en caso de que no funcione.
 
-Modifica la aplicación de modo que el estado inicial de los datos se obtenga del servidor mediante la librería <i>axios</i>. Completa la obtención de los datos con un [Effect hook](https://react.dev/reference/react/useEffect).
+Modifica la aplicación de modo que el estado inicial de los datos se obtenga del servidor mediante la librería <i>axios</i>. Completa la obtención de los datos con un [Effect hook](https://es.react.dev/reference/react/useEffect).
 
 </div>
